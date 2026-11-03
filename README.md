@@ -76,7 +76,8 @@ int main()
 
 # OUTPUT
 
-<img width="350" height="221" alt="Screenshot 2026-10-28 111049" src="https://github.com/user-attachments/assets/b6083a01-d315-4302-9b10-0cd0aad4c53b" />
+<img width="271" height="122" alt="Screenshot 2026-11-03 222214" src="https://github.com/user-attachments/assets/d14e481e-d0cd-4c4d-9162-fc027645732d" />
+
 
 # RESULT
 The Rail Fence Cipher encryption technique was implemented successfully in C. The program accepts the plaintext and number of rails from the user and displays the corresponding ciphertext.
